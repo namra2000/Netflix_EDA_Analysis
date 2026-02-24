@@ -32,7 +32,7 @@ SQL EDA & Analytics
 ```
 Netflix_EDA_Analysis
 │
-├── notebooks/
+├── python/
 │   └── data.ipynb
 │
 ├── sql/
@@ -41,9 +41,6 @@ Netflix_EDA_Analysis
 │
 ├── data/
 │   └── netflix_titles.csv
-│
-├── docs/
-│   └── schema_diagram.png   (optional)
 │
 └── README.md
 
