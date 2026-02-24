@@ -30,13 +30,23 @@ SQL EDA & Analytics
 ## 📂 Repository Structure
 
 ```
-Netflix-Data-Engineering
+Netflix_EDA_Analysis
 │
-├── netflix_titles.csv
-├── netflix_to_sql.ipynb
-├── Create Table.sql
-├── Cleaning EDA.sql
+├── notebooks/
+│   └── data.ipynb
+│
+├── sql/
+│   ├── Create Table.sql
+│   └── Cleaning EDA.sql
+│
+├── data/
+│   └── netflix_titles.csv
+│
+├── docs/
+│   └── schema_diagram.png   (optional)
+│
 └── README.md
+
 ```
 
 ---
